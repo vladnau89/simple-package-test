@@ -1,7 +1,7 @@
 ﻿{
   "name": "com.simple.package.test",
   "version": "1.0.0",
-  "displayName": "Test",
+  "displayName": "Simple.Package.Test",
   "description": "Test package update",
   "unity": "2021.3",
   "dependencies": {
