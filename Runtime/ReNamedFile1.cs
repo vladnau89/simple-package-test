@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ReNamedFile1
+public class ReNamedFile1<T> where T : new()
 {
     public void Log()
     {
