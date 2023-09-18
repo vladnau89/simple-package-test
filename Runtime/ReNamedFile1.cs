@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class NamedFile1
+public class ReNamedFile1
 {
     public void Log()
     {
